@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 532d652c-6203-2730-a2f3-de3a3768385b
 resourcetype: Document
 title: List of Sample Dilemmas
 uid: 44dd972b-e0e6-5241-7f8b-5531ebc26201

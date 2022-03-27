@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 532d652c-6203-2730-a2f3-de3a3768385b
 resourcetype: Document
 title: MMoRL
 uid: 368c030b-1ebd-77b9-d309-8a16680f21e8
