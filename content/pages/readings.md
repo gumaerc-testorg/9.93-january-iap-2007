@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists optional readings designed to provide background information
+  about topics in the field of moral reasoning.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
