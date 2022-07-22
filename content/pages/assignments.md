@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the course assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d0a61df5-b763-afd0-6873-a60d5f05a2bd
 ---
@@ -10,6 +14,6 @@ Alice is taking her daily walk along the train tracks when she notices that the 
 
 The basic question, of course, is whether people take age into consideration when making moral judgments in trolley problems.
 
-Then, the students collected thousands of responses to this and other questions. Here are some of the results for age. This shows how permissible it is to kill an adult, in order to save (1) a toddler, (2) another adult, or (3) an elderly person. ([PDF]({{< baseurl >}}/resources/results))
+Then, the students collected thousands of responses to this and other questions. Here are some of the results for age. This shows how permissible it is to kill an adult, in order to save (1) a toddler, (2) another adult, or (3) an elderly person. ({{% resource_link 2e59e8bc-406b-6c2b-c64b-725410db5fc5 "PDF" %}})
 
 These results show that people think it is more acceptable to kill an adult to save a toddler, than to save an adult or an elderly person.
