@@ -2,6 +2,7 @@
 content_type: resource
 description: A list of sample dilemmas for discussion.
 file: /courses/9-93-marathon-moral-reasoning-laboratory-january-iap-2007/44dd972be0e652417f8b5531ebc26201_dilemmas.pdf
+file_size: 64943
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -23,6 +23,6 @@ Fischer, John M., and Mark Ravizza. _Ethics: Problems and Principles_. Belmont, 
 
 Wright, Robert. _The Moral Animal: Why We Are the Way We Are_. New York, NY: Random House, 1995. ISBN: 0679763996.
 
-Saxe, Rebecca. "{{% resource_link "63fd8427-1cfc-4943-a61e-6a2d3b40caae" "Do the Right Thing: Cognitive Science's Search for a Common Morality" %}}." _Boston Review_ (Sep/Oct 2005).
+Saxe, Rebecca. "[Do the Right Thing: Cognitive Science's Search for a Common Morality](http://www.bostonreview.net/rebecca-saxe-common-morality-cognitive-science)." _Boston Review_ (Sep/Oct 2005).
 
 Mikhail, John. "Universal Moral Grammar: Theory, Evidence, and the Future." _Trends in Cognitive Sciences_ 11 (2007): 143-152.
